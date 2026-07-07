@@ -1,0 +1,43 @@
+/* selector {
+    property : value ;
+} */
+
+.title {
+    color: rgb(245, 245, 245);
+    /* background-color: black; */
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.container {
+    padding: 20px ;
+    /* background-color: rgb(80, 2, 90); */
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFOJmIfWW8VlZwJ3EhCZQWIG0W5znzUxg5iAnNxGYHLg&s=10");
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+}
+
+h2 {
+    color: aliceblue;
+    font-style: italic;
+}
+
+p {
+    /* border: 10px solid black; */
+color: aliceblue;
+}
+
+#btn {
+    /* border: 20px ; */
+    margin-top: 50px ;
+    padding: 10px ;
+    background-color: blue;
+    color: brown;
+}
+
+
+
